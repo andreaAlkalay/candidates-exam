@@ -10,7 +10,7 @@
 
 1. [Optional] Install [IntelliJ Idea Community Edition](https://www.jetbrains.com/idea/#chooseYourEdition) or another IDE of your choice
 
-1. Create ~/go/src
+1. Create ~/go
 
 1. Set the environment variable GOPATH to ~/go
 
@@ -39,6 +39,8 @@
 1. Go to ~/go/src/cloudapps and run main.go
 
   `$ go run main.go`
+
+1. Use your favorite browser to navigate to [localhost:3000](http://localhost:3000)
   
 ### Task 1: List Cloud Foundry apps
 
