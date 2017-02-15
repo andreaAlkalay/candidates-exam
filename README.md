@@ -12,7 +12,7 @@
 
 1. Set the environment variable GOPATH to ~/go
 
-1. Get required Go dependencies
+1. Get required Go dependencies (can take a while)
 
  ```
  $ go get github.com/cloudfoundry-community/go-cfclient
