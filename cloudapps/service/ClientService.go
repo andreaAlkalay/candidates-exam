@@ -6,9 +6,9 @@ import (
 
 func GetClient() *cfclient.Client {
 	config := &cfclient.Config{
-		ApiAddress:   "https://api.<cloud-foundry-ip>.xip.io",
-		Username:     "",
-		Password:     "",
+		ApiAddress:   "https://api.51.141.3.112.xip.io",
+		Username:     "andreaa",
+		Password:     "andreaa",
 		SkipSslValidation: true,
 	}
 
