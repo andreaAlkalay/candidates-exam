@@ -8,6 +8,8 @@
 
 1. Install the [Cloud Foundry Command Line Interface (CF-CLI)](https://github.com/cloudfoundry/cli#downloads)
 
+1. [Optional] Install [IntelliJ Idea Community Edition](https://www.jetbrains.com/idea/#chooseYourEdition) or another IDE of your choice
+
 1. Create ~/go/src
 
 1. Set the environment variable GOPATH to ~/go
